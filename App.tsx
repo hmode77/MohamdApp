@@ -36,11 +36,8 @@ const App = () => {
     <View style={styles.containeSr}>
       <View style={styles.txd}>
         <Text style={styles.txt} >my first ui</Text>
-
+        <Text style={styles.txt} >my second ui</Text>
       </View>
-
-
-
     </View>
   );
   //   return (
